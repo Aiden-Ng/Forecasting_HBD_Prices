@@ -1,13 +1,13 @@
 # Forecasting_HBD_Prices
 
-##Background and Overview
+## Background and Overview
 
-##Data Structure Overview
+## Data Structure Overview
 
 
 
-##Executive Summary
-##Insight Deep Dive
-##Recommnedations
+## Executive Summary
+## Insight Deep Dive
+## Recommnedations
 
 
