@@ -1,7 +1,7 @@
 # Forecasting_HBD_Prices
 
 ## Background and Overview
-The continuously rising cost of HDB has been a significant barrier to homeownership for Singaporeans, primaryly due to country's limited housing supply. This prevailing issue has become a major concern for many. Therefore, this project aims to identify the trends and factors contributing to high HDB prices and align suitable housing options according to the specifics needs and preferneces of Singaporeans. 
+The continous rising of HDB (Housing and Development Board) price has become a significant barrier to homeownership for young Singaporean due to Singapore's limited housing supply. This issue has raised concern among Singaporeans. In this project, we aim to analyze trends and identify key feature contributing to high HDB prices. Additionally, we will forecast future HDB housing prices to provide actionable insights. These findings will empower stakeholders, including the government and urban developers, to make data-driven decisions aimed at addressing affordability and ensuring accessible housing for the boarder population.
 
 ## Data Structure Overview
 
