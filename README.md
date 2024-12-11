@@ -5,7 +5,7 @@ The continous rising of HDB (Housing and Development Board) price has become a s
 
 ## Data Dictionary
 | Data Name | Type | Description |
-| :--------- | ---- | ----------- |
+| :---------: | ---- | ----------- |
 |   month   |   chr   |   The date of sale for the HDB    |
 |   town   |   chr   |   The town the HDB is located    |
 |   flat_type   |   chr   |   The size of the HDB    |
