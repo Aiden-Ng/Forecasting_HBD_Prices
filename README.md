@@ -5,18 +5,18 @@ The continous rising of HDB (Housing and Development Board) price has become a s
 
 ## Data Dictionary
 | Data Name | Type | Description |
-| :---------: | ---- | ----------- |
-|   month   |   chr   |   The date of sale for the HDB    |
-|   town   |   chr   |   The town the HDB is located    |
-|   flat_type   |   chr   |   The size of the HDB    |
-|   block   |   chr   |   The block of the HDB    |
-|   street_name   |   chr   |   The street name of the HDB    |
-|   storey_floor   |   chr   |   The storey floor in ranges    |
-|   floor_area_sqm   |   int   |   The floor area of the unit in meter squared     |
-|   flat_model   |   chr   |   The model of the HDB    |
-|   lease_commence_date   |   int   |   The starting year for the lease in years    |
-|   remaining_lease   |   int   |   The remaining year of the lease     |
-|   resale_price   |   int   |   The HDB resale price    |
+| :--------- | :---- | :----------- |
+|   month               |   chr   |   The date of sale for the HDB                    |
+|   town                |   chr   |   The town the HDB is located                     |
+|   flat_type           |   chr   |   The size of the HDB                             |
+|   block               |   chr   |   The block of the HDB                            |
+|   street_name         |   chr   |   The street name of the HDB                      |
+|   storey_floor        |   chr   |   The storey floor in ranges                      |
+|   floor_area_sqm      |   int   |   The floor area of the unit in meter squared     |
+|   flat_model          |   chr   |   The model of the HDB                            |
+|   lease_commence_date |   int   |   The starting year for the lease in years        |
+|   remaining_lease     |   int   |   The remaining year of the lease                 |
+|   resale_price        |   int   |   The HDB resale price                            |
 
 
 
